@@ -1,16 +1,21 @@
 
  
+from ipObject import ipObject 
+
 
 def readFiles(filename):
 	f = open(filename, "r")
-	print(f.read())
+	return(f.readlines())
 
-
+def createObjects(filecontents):
+	for i in filecontents:
+		example = ipObject(i)
+		print(example.address)
 
 def main():
 	print("hello world")
-	readFiles('iplogs.txt')
-
+	filecontents = readFiles('iplogs.txt')
+	createObjects(filecontents)
 
 if __name__ == "__main__":
     main()
