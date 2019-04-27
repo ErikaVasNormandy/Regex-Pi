@@ -1,4 +1,3 @@
-## Regex Pi
 A quick demo of Python and Regex
 
 **Input:** .txt or logfile with a list of IP addresses and ports that were pinged
