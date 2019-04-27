@@ -4,9 +4,11 @@
 **Output:** Prints output and alerts when >3 ports were scanned on an IP  
 
 ##### Primary Ingredients: 
-> + iplogs.txt  
-> + IP file in .txt format  
-        -  <IP Address>:<Port>
+> + iplogs.txt: An example file that the script ingests, consisting of the format <IP Address>:<Port>
+> + regex-pi.py: The main script that ingests the logfile and identifies IP's
+> + reg-pi.py: Initial approach using an object approach
+> + ipObject.py: Object to contain IP addresses that reg-pi.py gleaned
+        -  
  
  
  
