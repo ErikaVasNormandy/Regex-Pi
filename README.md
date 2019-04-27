@@ -9,8 +9,8 @@
         -  <IP Address>:<Port>
  
 ##### How to Run:
-````$ python regex-pi.py
-
+````
+> python regex-pi.py
 
 IPAddress ----> 192.168.1.1
  Ports ----> ['18', '22', '21', '80']
