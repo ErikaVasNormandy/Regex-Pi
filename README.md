@@ -4,7 +4,7 @@
 **Output:** Prints output and alerts when >3 ports were scanned on an IP  
 
 ##### Primary Ingredients: 
-    + Python 3
+    + **iplogs.txt**
     + IP file in .txt format
         -  <IP Address>:<Port>
  
