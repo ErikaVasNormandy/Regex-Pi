@@ -3,7 +3,7 @@
 **Input:** .txt or logfile with a list of IP addresses and ports that were pinged  
 **Output:** Prints output and alerts when >3 ports were scanned on an IP  
 
-##### Primary Ingredients: 
+#### Primary Ingredients: 
 + **iplogs.txt:** An example file that the script ingests, consisting of the format <IP Address>:<Port>
 + **regex-pi.py:** The main script that ingests the logfile and identifies IP's
 + **reg-pi.py:** Initial approach using an object approach
