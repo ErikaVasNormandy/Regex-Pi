@@ -13,7 +13,7 @@
  
  
  
- ![Test Image 3]("https://github.com/ErikaVasNormandy/Regex-Pi/blob/master/01HowToRun.png")
+ ![Test Image 3]("https://github.com/ErikaVasNormandy/Regex-Pi/blob/master/01HowToRun.png?raw=true")
  
  
 ##### How to Run:
