@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;+ **reg-pi.py:** Initial approach using an object approach  
 &nbsp;&nbsp;&nbsp;+ **ipObject.py:** Object to contain IP addresses that reg-pi.py gleaned
 
- ![How to Run](https://raw.githubusercontent.com/ErikaVasNormandy/Regex-Pi/master/01HowToRun.png | width=200)
+ ![How to Run](https://raw.githubusercontent.com/ErikaVasNormandy/Regex-Pi/master/01HowToRun.png)
  
 ##### How to Run:
 
