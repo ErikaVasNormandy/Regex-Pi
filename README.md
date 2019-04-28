@@ -8,13 +8,8 @@
 &nbsp;&nbsp;&nbsp;+ **regex-pi.py:** The main script that ingests the logfile and identifies IP's   
 &nbsp;&nbsp;&nbsp;+ **reg-pi.py:** Initial approach using an object approach  
 &nbsp;&nbsp;&nbsp;+ **ipObject.py:** Object to contain IP addresses that reg-pi.py gleaned
-        -  
- 
- 
- 
- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
- ![How to Run]("https://github.com/ErikaVasNormandy/Regex-Pi/blob/master/01HowToRun.png")
+ ![How to Run]("https://raw.githubusercontent.com/ErikaVasNormandy/Regex-Pi/master/01HowToRun.png")
  
  
 ##### How to Run:
