@@ -12,8 +12,9 @@
  
  
  
- 
- ![Test Image 3]("https://github.com/ErikaVasNormandy/Regex-Pi/blob/master/01HowToRun.png?raw=true")
+ ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+ ![How to Run]("https://github.com/ErikaVasNormandy/Regex-Pi/blob/master/01HowToRun.png")
  
  
 ##### How to Run:
