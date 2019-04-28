@@ -29,8 +29,8 @@
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the Last Value
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the Last Value
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPAddress ---->  10.2.14.113  Ports::
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ['0']
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPAddress ---->  10.2.14.113  Ports::
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ['0']
 
