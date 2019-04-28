@@ -17,7 +17,7 @@
  
  
 ##### How to Run:
-````
+
 &nbsp;> python regex-pi.py
 
 &nbsp;IPAddress ----> 192.168.1.1
@@ -50,4 +50,4 @@
 &nbsp;IPAddress ---->  10.2.14.113  Ports::
 &nbsp; ['0']
 
-````
+
