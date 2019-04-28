@@ -33,6 +33,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPAddress ---->  10.2.14.113  Ports::  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ['0']  
 
-<img src="https://raw.githubusercontent.com/ErikaVasNormandy/Regex-Pi/master/01HowToRun.png" align="left" height="48" width="48" >
- ![How to Run](https://raw.githubusercontent.com/ErikaVasNormandy/Regex-Pi/master/01HowToRun.png)
+![How to Run](https://raw.githubusercontent.com/ErikaVasNormandy/Regex-Pi/master/01HowToRun.png)
 
