@@ -9,11 +9,10 @@
 &nbsp;&nbsp;&nbsp;+ **reg-pi.py:** Initial approach using an object approach  
 &nbsp;&nbsp;&nbsp;+ **ipObject.py:** Object to contain IP addresses that reg-pi.py gleaned
 
- ![How to Run](https://raw.githubusercontent.com/ErikaVasNormandy/Regex-Pi/master/01HowToRun.png)
  
 ### How to Run:
 
-&nbsp;&nbsp;&nbsp;&nbsp;> python regex-pi.py
+**python regex-pi.py**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPAddress ----> 192.168.1.1
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ports ----> ['18', '22', '21', '80']
@@ -33,4 +32,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IPAddress ---->  10.2.14.113  Ports::
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ['0']
+
+ ![How to Run](https://raw.githubusercontent.com/ErikaVasNormandy/Regex-Pi/master/01HowToRun.png)
 
