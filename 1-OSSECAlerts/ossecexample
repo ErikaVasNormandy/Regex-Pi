@@ -1,0 +1,165 @@
+From ossecm@ubuntu  Mon May 20 22:00:01 2019
+Return-Path: <ossecm@ubuntu>
+X-Original-To: root@localhost
+Delivered-To: root@localhost
+Received: from notify.ossec.net (localhost [127.0.0.1])
+	by ubuntu.localdomain (Postfix) with SMTP id 4E615114CC
+	for <root@localhost>; Mon, 20 May 2019 22:00:01 -0700 (PDT)
+To: <root@localhost>
+From: OSSEC HIDS <ossecm@ubuntu>
+Date: Mon, 20 May 2019 22:00:01 -0700
+Subject: OSSEC Notification - ubuntu - Alert level 2
+Message-Id: <20190521050001.4E615114CC@ubuntu.localdomain>
+
+
+OSSEC HIDS Notification.
+2019 May 20 21:59:50
+
+Received From: ubuntu->/var/log/syslog
+Rule: 1002 fired (level 2) -> "Unknown problem somewhere in the system."
+Portion of the log(s):
+
+May 20 21:59:50 ubuntu gnome-shell[1473]: g_dbus_proxy_call_finish_internal: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+
+
+
+ --END OF NOTIFICATION
+
+
+
+
+From ossecm@ubuntu  Mon May 20 22:00:16 2019
+Return-Path: <ossecm@ubuntu>
+X-Original-To: root@localhost
+Delivered-To: root@localhost
+Received: from notify.ossec.net (localhost [127.0.0.1])
+	by ubuntu.localdomain (Postfix) with SMTP id 49FBA114CC
+	for <root@localhost>; Mon, 20 May 2019 22:00:16 -0700 (PDT)
+To: <root@localhost>
+From: OSSEC HIDS <ossecm@ubuntu>
+Date: Mon, 20 May 2019 22:00:16 -0700
+Subject: OSSEC Notification - ubuntu - Alert level 2
+Message-Id: <20190521050016.49FBA114CC@ubuntu.localdomain>
+
+
+OSSEC HIDS Notification.
+2019 May 20 22:00:00
+
+Received From: ubuntu->/var/log/syslog
+Rule: 1002 fired (level 2) -> "Unknown problem somewhere in the system."
+Portion of the log(s):
+
+May 20 22:00:00 ubuntu gnome-shell[1473]: g_dbus_proxy_call_finish_internal: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+
+
+
+ --END OF NOTIFICATION
+
+
+
+OSSEC HIDS Notification.
+2019 May 20 22:00:05
+
+Received From: ubuntu->/var/log/syslog
+Rule: 1002 fired (level 2) -> "Unknown problem somewhere in the system."
+Portion of the log(s):
+
+May 20 22:00:03 ubuntu gvfsd-metadata[10824]: g_udev_device_has_property: assertion 'G_UDEV_IS_DEVICE (device)' failed
+
+
+
+ --END OF NOTIFICATION
+
+
+
+
+From ossecm@ubuntu  Mon May 20 22:07:26 2019
+Return-Path: <ossecm@ubuntu>
+X-Original-To: root@localhost
+Delivered-To: root@localhost
+Received: from notify.ossec.net (localhost [127.0.0.1])
+	by ubuntu.localdomain (Postfix) with SMTP id B9E9A60
+	for <root@localhost>; Mon, 20 May 2019 22:07:26 -0700 (PDT)
+To: <root@localhost>
+From: OSSEC HIDS <ossecm@ubuntu>
+Date: Mon, 20 May 2019 22:07:26 -0700
+Subject: OSSEC Notification - ubuntu - Alert level 2
+Message-Id: <20190521050726.B9E9A60@ubuntu.localdomain>
+
+
+OSSEC HIDS Notification.
+2019 May 20 22:07:13
+
+Received From: ubuntu->/var/log/syslog
+Rule: 1002 fired (level 2) -> "Unknown problem somewhere in the system."
+Portion of the log(s):
+
+May 20 22:07:13 ubuntu systemd-resolved[536]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+
+
+
+ --END OF NOTIFICATION
+
+
+
+
+From ossecm@ubuntu  Mon May 20 22:59:14 2019
+Return-Path: <ossecm@ubuntu>
+X-Original-To: root@localhost
+Delivered-To: root@localhost
+Received: from notify.ossec.net (localhost [127.0.0.1])
+	by ubuntu.localdomain (Postfix) with SMTP id 6D1E5114CC
+	for <root@localhost>; Mon, 20 May 2019 22:59:14 -0700 (PDT)
+To: <root@localhost>
+From: OSSEC HIDS <ossecm@ubuntu>
+Date: Mon, 20 May 2019 22:59:14 -0700
+Subject: OSSEC Notification - ubuntu - Alert level 2
+Message-Id: <20190521055914.6D1E5114CC@ubuntu.localdomain>
+
+
+OSSEC HIDS Notification.
+2019 May 20 22:59:00
+
+Received From: ubuntu->/var/log/syslog
+Rule: 1002 fired (level 2) -> "Unknown problem somewhere in the system."
+Portion of the log(s):
+
+May 20 22:59:00 ubuntu gvfsd-metadata[10824]: g_udev_device_has_property: assertion 'G_UDEV_IS_DEVICE (device)' failed
+
+
+
+ --END OF NOTIFICATION
+
+
+
+
+From ossecm@ubuntu  Mon May 20 22:59:29 2019
+Return-Path: <ossecm@ubuntu>
+X-Original-To: root@localhost
+Delivered-To: root@localhost
+Received: from notify.ossec.net (localhost [127.0.0.1])
+	by ubuntu.localdomain (Postfix) with SMTP id 5C68F60
+	for <root@localhost>; Mon, 20 May 2019 22:59:29 -0700 (PDT)
+To: <root@localhost>
+From: OSSEC HIDS <ossecm@ubuntu>
+Date: Mon, 20 May 2019 22:59:29 -0700
+Subject: OSSEC Notification - ubuntu - Alert level 2
+Message-Id: <20190521055929.5C68F60@ubuntu.localdomain>
+
+
+OSSEC HIDS Notification.
+2019 May 20 22:59:18
+
+Received From: ubuntu->/var/log/syslog
+Rule: 1002 fired (level 2) -> "Unknown problem somewhere in the system."
+Portion of the log(s):
+
+May 20 22:59:17 ubuntu google-chrome.desktop[1997]: [2030:2030:0520/225917.592777:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+
+
+
+ --END OF NOTIFICATION
+
+
+
+
